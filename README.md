@@ -1,1 +1,1 @@
-# Capstone-2---Sushi-Recommender
+# Capstone Project 2 - Sushi Recommender
